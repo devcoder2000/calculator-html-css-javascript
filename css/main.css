@@ -46,6 +46,7 @@ body{
     align-items: center;
     border-radius: .5rem;
     cursor: pointer;
+    font-size: 20px;
 }
 
 .btn:hover{
